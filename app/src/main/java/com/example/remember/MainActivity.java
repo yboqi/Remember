@@ -7,7 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     TextView textView;
-    Buttom button;
+    Buttom button1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
